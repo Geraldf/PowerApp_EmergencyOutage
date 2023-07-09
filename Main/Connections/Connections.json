@@ -1,0 +1,27 @@
+{
+  "4dcb2031-62e9-4795-8097-052f810d37ad": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3312/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://karlstorzeur.sharepoint.com/sites/MeOnly": {
+        "dataSources": {
+          "Emergency Outages": {
+            "tableName": "b58b7aec-d1de-42cd-ab28-fc7e95a47e14"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Emergency Outages"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "4dcb2031-62e9-4795-8097-052f810d37ad"
+  }
+}
