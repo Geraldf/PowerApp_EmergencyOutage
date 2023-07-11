@@ -1,7 +1,7 @@
 {
   "FormatVersion": "0.24",
   "Header": {
-    "DocVersion": "1.333",
+    "DocVersion": "1.332",
     "MinVersionToLoad": "1.331",
     "MSAppStructureVersion": "2.0"
   },
@@ -42,6 +42,7 @@
       "enableonstart": true,
       "enableonstartnavigate": false,
       "enablepcfmoderndatasets": true,
+      "enablepowerautomatepane": false,
       "enablerowscopeonetonexpand": false,
       "enablerpawarecomponentdependency": true,
       "enablerulespanel": false,
@@ -116,8 +117,7 @@
     "ManualOfflineProfileId": "",
     "Name": "Emergency Report",
     "OriginatingVersion": "1.332",
-    "ParserErrorCount": 0,
-    "ShowStatusBar": false
+    "ParserErrorCount": 0
   },
   "PublishInfo": {
     "AppName": "Emergency Report",
